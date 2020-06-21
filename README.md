@@ -69,7 +69,7 @@ return false;
     <form method="post" name="jspoo" id="jspoo" style="margin:0px;padding:0px" onsubmit="return(jspoosearch())">
      <input type="submit" value=" 播放 " style="height:47px; width:80px;font-size:16px;color:#fff;background-color: #3388ff;border-style: solid;border:0;outline:none;border-color: #dddddd;padding:0px;float:right;">
        <div style="overflow:hidden;">
-     <input type="text" name="key" style="width:92%;font-size:12px;height:45px;padding:0 0px 0 15px;background-color: #fff;border-style: solid;outline:none;border-color: #d2d2d2 display:inline-block;*display:inline;border:1px solid #c1c0c0;" value="输入视频地址，选好频道，点击播放即可" id="myinput">
+     <input type="text" name="key" style="width:100%;font-size:12px;height:45px;padding:0 0px 0 15px;background-color: #fff;border-style: solid;outline:none;border-color: #d2d2d2 display:inline-block;*display:inline;border:1px solid #c1c0c0;" value="输入视频地址，选好频道，点击播放即可" id="myinput">
         </div>  
           <script language="JavaScript" type="text/javascript">var s=document.getElementById("myinput");s.onfocus=function(){if(this.value==this.defaultValue)this.value=''};
  s.onblur=function (){if(/^\s*$/.test(this.value)){this.value=this.defaultValue;this.style.color='#777'}}
@@ -82,7 +82,7 @@ return false;
 <table units="hasPercent" class="noBorderTable hhhh" _innercreatetable="true" style="border-collapse:collapse;border:SOLID 0px ;background-color:;" defaultwidth="true" width="100%" align="CENTER" border="0" bordercolor="#000000">
     <tbody>
         <tr>
-            <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" align="center" bgcolor="transparent" bselect="top,right,bottom,left">
+            <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
                 <input type="radio" name="ss" id="url01" checked="checked"><span style="background-color:transparent;font-size:14px;color:#1D1E20;">频道-01</span>
             </td>
             <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
