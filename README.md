@@ -78,7 +78,7 @@ return false;
     <br>
 </p>
       
-        <div style="margin:5px -5px 0px -5px;color:#1d1e20;">
+        
 <table units="hasPercent" class="noBorderTable hhhh" _innercreatetable="true" style="border-collapse:collapse;border:SOLID 0px ;background-color:;" defaultwidth="true" width="100%" align="CENTER" border="0" bordercolor="#000000">
     <tbody>
         <tr>
