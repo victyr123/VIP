@@ -75,7 +75,7 @@ return false;
  s.onblur=function (){if(/^\s*$/.test(this.value)){this.value=this.defaultValue;this.style.color='#777'}}
  s.onkeydown=function(){this.style.color='#000'}</script>
 <p style="line-height:1.5em;clear:both;">
-    <br>
+    
 </p>
       
         
@@ -243,9 +243,4 @@ return false;
             </td>
 
 
-</table>
-        </div>
-    </form>
-</div>
-</body>
-</html>
+
