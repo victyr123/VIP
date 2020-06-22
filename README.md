@@ -85,6 +85,7 @@ return false;
             <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
                 <p style="line-height:2.5em;">
                     <input type="radio" name="ss" id="url01"><span style="font-family:微软雅黑;font-size:14px;color:#1D1E20;">频道-01</span>
+                    </p>
             </td>
             <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
                 <p style="line-height:2.5em;">
