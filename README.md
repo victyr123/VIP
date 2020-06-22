@@ -76,7 +76,7 @@ return false;
 </p>
       
         
-<table units="hasPercent" class="noBorderTable hhhh" _innercreatetable="true" style="border-collapse:collapse;border:SOLID 0px ;background-color:;" defaultwidth="true" width="100%" align="CENTER" border="0" bordercolor="#000000">
+<table units="hasPercent" class="noBorderTable hhhh" _innercreatetable="true" style="border-collapse:collapse;border:SOLID 0px ;background-color:;" defaultwidth="true" width="50%" align="CENTER" border="0" bordercolor="#000000">
     <tbody>
         <tr>
             <td width="25%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:none;border-left:0px solid #000000;word-break:normal;background-color:transparent;text-align:center;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
